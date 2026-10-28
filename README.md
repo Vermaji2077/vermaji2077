@@ -7,7 +7,8 @@
 </p>
 Computer Science Engineering Student | Developer | Lifelong Learner
 Building useful applications, exploring new technologies, and turning ideas into working software.
-
+  </div>
+<div>
 <a href="https://github.com/Vermaji2077">
   <img src="https://img.shields.io/badge/GitHub-Vermaji2077-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
