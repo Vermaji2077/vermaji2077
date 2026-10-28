@@ -110,11 +110,32 @@ My personal portfolio project showcasing my development journey and work.
 
 ## 🐍 Contribution Activity
 
+
+---
+
+## 🐍 GitHub Contribution Snake
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vermaji2077/Vermaji2077/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Vermaji2077/Vermaji2077/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Vermaji2077/Vermaji2077/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Vermaji2077/Vermaji2077/output/github-snake.svg"
+  />
+</picture>
 
 </div>
+
+---
+
 
 ---
 
