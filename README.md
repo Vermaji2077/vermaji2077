@@ -77,9 +77,6 @@ Want to explore more? Visit my repositories.
 
 ---
 
-
----
-
 🐍 GitHub Contribution Snake
 <div align="center">
 
