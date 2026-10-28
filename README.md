@@ -77,31 +77,6 @@ Want to explore more? Visit my repositories.
 
 ---
 
-## 🎮 Break the Wall — Hello World!
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00ADB5&center=true&vCenter=true&width=500&lines=%3E+HELLO+WORLD!;%3E+Breaking+walls+with+code...;%3E+Level+up+your+skills!"
-    alt="Hello World game-style animation"
-  />
-</p>
-
-<p align="center">
-  <b>🧱 BREAK THE WALL. 🏓 KEEP THE BALL ALIVE. 💻 WRITE CODE.</b>
-</p>
-
-<p align="center">
-  <code>[ HELLO ]</code> &nbsp;
-  <code>[ WORLD! ]</code> &nbsp;
-  <code>[ CODE ]</code> &nbsp;
-  <code>[ BUILD ]</code>
-  <br/><br/>
-  <code>　　　　　●</code>
-  <br/>
-  <code>━━━━━━━━━━━━━━━━</code>
-  <br/>
-  <sub>⚡ Every bug broken is another level completed!</sub>
-</p>
 
 ---
 
