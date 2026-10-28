@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Computer+Science+Undergraduate;React+%7C+Node.js+%7C+Express+%7C+MySQL;Passionate+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
-👋 Hey, I'm Nishant Verma
 Computer Science Engineering Student | Developer | Lifelong Learner
 Building useful applications, exploring new technologies, and turning ideas into working software.
 
