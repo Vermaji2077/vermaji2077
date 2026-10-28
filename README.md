@@ -1,18 +1,11 @@
-
-<!--
-  Profile README for: Vermaji2077
-  Customize the skills and contact links to match your current profile.
+rofile README for: Vermaji2077
 -->
 
 <div align="center">
 
-# 👋 Hey, I'm Nishant Verma
-
-### Computer Science Engineering Student | Developer | Lifelong Learner
-
+👋 Hey, I'm Nishant Verma
+Computer Science Engineering Student | Developer | Lifelong Learner
 Building useful applications, exploring new technologies, and turning ideas into working software.
-
-<br/>
 
 <a href="https://github.com/Vermaji2077">
   <img src="https://img.shields.io/badge/GitHub-Vermaji2077-181717?style=for-the-badge&logo=github" alt="GitHub"/>
@@ -23,73 +16,48 @@ Building useful applications, exploring new technologies, and turning ideas into
 
 </div>
 
----
-
-## 💫 About Me
-
+💫 About Me
 - 🎓 Computer Science Engineering student
 - 💻 Interested in software development and building real-world applications
 - 🌱 Continuously learning new tools, frameworks, and development practices
 - 🛠️ Enjoy working on full-stack applications, databases, and developer tools
 - ☁️ Exploring cloud computing, deployment, and modern development workflows
 - 🎯 Goal: Become a better engineer by building, testing, and improving projects
-
----
-
-## 🧰 Tech Stack
-
-### Languages
-
+🧰 Tech Stack
+Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,html,css" alt="Programming languages" />
 </p>
 
-### Frontend Development
-
+Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,bootstrap" alt="Frontend technologies" />
 </p>
 
-### Backend & Databases
-
+Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma" alt="Backend and database technologies" />
 </p>
 
-### Tools & Platforms
-
+Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,flutter,docker,aws,vercel,netlify" alt="Developer tools and platforms" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🛒 [YourMart](https://github.com/Vermaji2077/YourMart)
-
+🚀 Featured Projects
+🛒 YourMart
 An e-commerce project focused on online shopping functionality and full-stack development.
 
-**Focus:** Web development · APIs · Database integration
-
-### ✈️ [Aviation](https://github.com/Vermaji2077/Aviation)
-
+Focus: Web development · APIs · Database integration
+✈️ Aviation
 Explore the project repository to learn about its functionality, implementation, and technologies.
-
-### 🧠 [DSA](https://github.com/Vermaji2077/dsa)
-
+🧠 DSA
 A repository for practicing data structures and algorithms while strengthening programming fundamentals.
-
-### 💼 [Portfolio](https://github.com/Vermaji2077/Portfolio)
-
+💼 Portfolio
 My personal portfolio project showcasing my development journey and work.
+Want to explore more? Visit my repositories.
 
-> Want to explore more? Visit my [repositories](https://github.com/Vermaji2077?tab=repositories).
-
----
-
-## 📊 GitHub Statistics
-
+📊 GitHub Statistics
 <div align="center">
 
 <a href="https://github.com/Vermaji2077">
@@ -100,16 +68,12 @@ My personal portfolio project showcasing my development journey and work.
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vermaji2077&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </a>
 
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=Vermaji2077&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
----
-
-## 🐍 GitHub Contribution Snake
-
+🐍 GitHub Contribution Snake
 <div align="center">
 
 <picture>
@@ -129,29 +93,23 @@ My personal portfolio project showcasing my development journey and work.
 
 </div>
 
----
-
-
----
-
-## 🤝 Connect With Me
-
+🤝 Connect With Me
 <div align="center">
 
 <a href="https://github.com/Vermaji2077">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-<!-- Add your LinkedIn and portfolio links here when ready. -->
+<a href="https://vermaji2077.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:nishantv181@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
----
-
 <div align="center">
 
-### 💡 Learn. Build. Improve. Repeat.
-
-*Thanks for visiting my profile! ⭐*
-
+💡 Learn. Build. Improve. Repeat.
+Thanks for visiting my profile! ⭐
 </div>
