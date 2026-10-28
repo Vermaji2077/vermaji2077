@@ -108,11 +108,6 @@ My personal portfolio project showcasing my development journey and work.
 
 ---
 
-## 🐍 Contribution Activity
-
-
----
-
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
